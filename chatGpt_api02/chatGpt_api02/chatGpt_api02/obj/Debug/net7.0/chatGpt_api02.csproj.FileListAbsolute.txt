@@ -1,0 +1,17 @@
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\bin\Debug\net7.0\chatGpt_api02.exe
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\bin\Debug\net7.0\chatGpt_api02.deps.json
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\bin\Debug\net7.0\chatGpt_api02.runtimeconfig.json
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\bin\Debug\net7.0\chatGpt_api02.dll
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\bin\Debug\net7.0\chatGpt_api02.pdb
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\obj\Debug\net7.0\chatGpt_api02.csproj.AssemblyReference.cache
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\obj\Debug\net7.0\chatGpt_api02.GeneratedMSBuildEditorConfig.editorconfig
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\obj\Debug\net7.0\chatGpt_api02.AssemblyInfoInputs.cache
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\obj\Debug\net7.0\chatGpt_api02.AssemblyInfo.cs
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\obj\Debug\net7.0\chatGpt_api02.csproj.CoreCompileInputs.cache
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\obj\Debug\net7.0\chatGpt_api02.csproj.CopyComplete
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\obj\Debug\net7.0\chatGpt_api02.dll
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\obj\Debug\net7.0\refint\chatGpt_api02.dll
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\obj\Debug\net7.0\chatGpt_api02.pdb
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\obj\Debug\net7.0\chatGpt_api02.genruntimeconfig.cache
+C:\main\code_CSharp\chatGpt\chatGpt_api02\chatGpt_api02\chatGpt_api02\obj\Debug\net7.0\ref\chatGpt_api02.dll

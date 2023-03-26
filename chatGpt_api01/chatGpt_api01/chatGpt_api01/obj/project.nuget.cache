@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TjDzT+OwD7x9kHIIVlUmPGi5ZmP+UPJYLsMZNKs4dJcYsosmaKTNVAkA21nPru4Emr58vZ7IVgVIowqi8Uet2Q==",
+  "success": true,
+  "projectFilePath": "C:\\main\\code_CSharp\\chatGpt\\chatGpt_api01\\chatGpt_api01\\chatGpt_api01\\chatGpt_api01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yaogu\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\yaogu\\.nuget\\packages\\spectre.console\\0.46.0\\spectre.console.0.46.0.nupkg.sha512",
+    "C:\\Users\\yaogu\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
